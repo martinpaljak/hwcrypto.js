@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project was the predecessor of [web-eid](https://github.com/web-eid) and is now obsolete
+
 # hwcrypto.js
 > Browser JavaScript interface for signing with hardware tokens
 
